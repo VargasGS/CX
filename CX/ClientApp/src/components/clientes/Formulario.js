@@ -14,7 +14,7 @@ export class Formulario extends Component {
             <main>
             
 
-                <div class="row-full">Recopilación de datos de clientes a encuestar prueba</div>
+                <div class="row-full">Recopilación de datos de clientes a encuestar prueba sofi2</div>
 
              
                 <div className="wrapper">
